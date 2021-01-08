@@ -10,16 +10,17 @@
 | 1/2 | Vanilla JS + Redux | 100% |
 | 1/3 | React JS + Redux | 100% |
 | 1/4 | 10 practical React Hooks | 25% |
-|     | Machine Learning yahac  | 27% |
+|     | Machine Learning yahac - ML1 | 27% |
 | 1/5 | 10 practical React Hooks | 40% |
-|     | Machine Learning yahac  | 63% |
+|     | Machine Learning yahac - ML1 | 63% |
 | 1/6 | 10 practical React Hooks | 50% |
-|     | Machine Learning yahac  | 77% |
+|     | Machine Learning yahac - ML1 | 77% |
+| 1/7 | Machine Learning yahac - ML1 | 100% |
 
 ### NEXT PLAN
 
 - [ ] 10 practical React Hooks
-- [ ] Machine Learning yahac - Machine Learning 1
+- [x] Machine Learning yahac - Machine Learning 1
 - [ ] React JS for junior
 - [ ] React Native for junior
 - [ ] Twitter clone coding
