@@ -18,7 +18,7 @@
 | 1/7 | Machine Learning yahac - ML1 | 100% |
 | 1/8 | 10 practical React Hooks | 55% |
 | 1/9 | 10 practical React Hooks | 60% |
-|     | white paper : OS-CFI | 6% |
+|     | paper : OS-CFI | 6% |
 
 ### NEXT PLAN
 
