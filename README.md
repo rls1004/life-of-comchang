@@ -20,6 +20,8 @@
 | 1/9 | 10 practical React Hooks | 60% |
 |     | paper : OS-CFI | 6% |
 | 1/10 | paper : OS-CFI | 20% |
+| 1/11 | 10 practical React Hooks | 70% |
+|      | paper : OS-CFI | 26% |
 
 ### NEXT PLAN
 
