@@ -22,6 +22,7 @@
 | 1/10 | paper : OS-CFI | 20% |
 | 1/11 | 10 practical React Hooks | 70% |
 |      | paper : OS-CFI | 26% |
+| 1/12 | Modern VMWARE Exploitation Techniques | 28% |
 
 ### NEXT PLAN
 
