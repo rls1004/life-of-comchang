@@ -25,10 +25,14 @@
 | 1/12 | Modern VMWARE Exploitation Techniques | 28% |
 | 1/13 | 10 practical React Hooks | 75% |
 | 1/14 | 10 practical React Hooks | 80% |
+| 1/15 | 언니랑 놀아주기 | 100% |
+| 1/16 | 언니랑 놀아주기 | 100% |
+| 1/17 | 언니랑 놀아주기 | 100% |
+| 1/18 | 10 practical React Hooks | 100% |
 
 ### NEXT PLAN
 
-- [ ] 10 practical React Hooks
+- [x] 10 practical React Hooks
 - [x] Machine Learning yahac - Machine Learning 1
 - [ ] React JS for junior
 - [ ] React Native for junior
