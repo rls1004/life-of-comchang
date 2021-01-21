@@ -29,6 +29,8 @@
 | 1/16 | 언니랑 놀아주기 | 100% |
 | 1/17 | 언니랑 놀아주기 | 100% |
 | 1/18 | 10 practical React Hooks | 100% |
+| 1/19 | Modern VMWARE Exploitation Techniques | 46% |
+| 1/20 | Sequence points | 100% |
 
 ### NEXT PLAN
 
