@@ -32,6 +32,8 @@
 | 1/19 | Modern VMWARE Exploitation Techniques | 46% |
 | 1/20 | Sequence points | 100% |
 | 1/21 | GraphQL로 영화 API 만들기 | 7% |
+| 1/22 | react로 삽질 함 (private repo) | - |
+| 1/23 | 운동 (컴퓨터 하려면 역시 체력이 있어야지) | - |
 
 ### NEXT PLAN
 
