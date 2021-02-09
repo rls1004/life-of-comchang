@@ -49,7 +49,9 @@
 | 2/4 | 파이썬 2주 챌린지 | 11/14 |
 | 2/5 | 파이썬 2주 챌린지 | 12/14 |
 | 2/6 | 데몬 내부 세미나 | - |
-| 2/7 | [투자 지표 생성기](https://github.com/rls1004/investment_indicator_generator) | 50% |
+| 2/7 | [투자 지표 생성기](https://github.com/rls1004/investment_indicator_generator) | 50% |\
+| 2/8 | 바닐라JS 2주 챌린지 | 1/14 |
+| 2/9 | 바닐라JS 2주 챌린지 | 2/14 |
 
 ### NEXT PLAN
 
