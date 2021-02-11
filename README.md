@@ -52,6 +52,8 @@
 | 2/7 | [투자 지표 생성기](https://github.com/rls1004/investment_indicator_generator) | 50% |\
 | 2/8 | 바닐라JS 2주 챌린지 | 1/14 |
 | 2/9 | 바닐라JS 2주 챌린지 | 2/14 |
+| 2/10 | 바닐라JS 2주 챌린지 | 3/14 |
+| 2/11 | 바닐라JS 2주 챌린지 | 4/14 |
 
 ### NEXT PLAN
 
