@@ -59,6 +59,7 @@
 | 2/13 | 바닐라JS 2주 챌린지 | 6/14 |
 | 2/14 | 바닐라JS 2주 챌린지 | 7/14 |
 |      | 트위터 클론 코딩 | 24% |
+| 2/15 | 바닐라 JS로 크롬 앱 만들기 | 75% |
 
 ### NEXT PLAN
 
@@ -67,3 +68,7 @@
 - [ ] React JS for junior
 - [ ] React Native for junior
 - [ ] Twitter clone coding
+
+### RESULT
+
+- 파이썬 2주 챌린지 졸업
