@@ -68,6 +68,7 @@
 | 2/19 | 바닐라JS 2주 챌린지 | 12/14 |
 | 2/20 | 해캠 CTF 준비 & 모니터링 | - |
 | 2/21 | 해캠 CTF 모니터링 & Demon QnA | - |
+| 2/22 | Apple Platform Security 읽는 중 | ? |
 
 ### NEXT PLAN
 
