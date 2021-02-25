@@ -70,6 +70,7 @@
 | 2/21 | 해캠 CTF 모니터링 & Demon QnA | - |
 | 2/22 | Apple Platform Security 읽는 중 | ? |
 | 2/23 | Apple Platform Security 읽는 중 | ? |
+| 2/24 | Apple Platform Security 읽는 중 | ? |
 
 ### NEXT PLAN
 
