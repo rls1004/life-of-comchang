@@ -71,6 +71,8 @@
 | 2/22 | Apple Platform Security 읽는 중 | ? |
 | 2/23 | Apple Platform Security 읽는 중 | ? |
 | 2/24 | Apple Platform Security 읽는 중 | ? |
+| 2/25 | Apple Platform Security 읽는 중 | ? |
+
 
 ### NEXT PLAN
 
