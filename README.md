@@ -76,6 +76,9 @@
 |      | [\[APS\] Hardware security and biometrics 포스팅](https://rls1004.github.io/2021-02-26-aps-hardware/) | 100% |
 | 2/27 | Aero CTF 참가 | - |
 | 2/28 | Aero CTF 참가 | - |
+| 3/1 | 코코아 클론 2주 챌린지 | 1/14 |
+|     | 코코아톡 클론코딩 | 9% |
+
 
 
 
