@@ -72,6 +72,12 @@
 | 2/23 | Apple Platform Security 읽는 중 | ? |
 | 2/24 | Apple Platform Security 읽는 중 | ? |
 | 2/25 | Apple Platform Security 읽는 중 | ? |
+| 2/26 | [Apple Platform Security Revision 포스팅](https://rls1004.github.io/2021-02-26-apple-platform-security-revision/) | 100% |
+|      | [\[APS\] Hardware security and biometrics 포스팅](https://rls1004.github.io/2021-02-26-aps-hardware/) | 100% |
+| 2/27 | Aero CTF 참가 | - |
+| 2/28 | Aero CTF 참가 | - |
+
+
 
 
 ### NEXT PLAN
