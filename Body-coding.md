@@ -25,8 +25,11 @@
 | 2/26 | 필라테스 : 체어 | 옆구리 | 50 |
 | 2/27 | 살 빠지는 전신운동 루틴 with 피지컬갤러리 | \*스쿼트, 암워킹, 브릿지, 점핑잭, 슈퍼맨&랫풀다운, 니투엘보우 | 20 |
 | 2/28 | (빨래) 걷기 | - | - |
+| 3/1 | 걷기 | - | 40 |
+| 3/2 | [Full body workout 50min](https://youtu.be/c-dfaA3Bt1k) | (Cardio, Wide squat 3 pump, kneeling push-up, T-pull, slow-burpee, crunch, leg raise, bridge)\*4, 100 squat,   | 50 |
 
 
 
 
-### TOTAL : 545 MIN
+
+### TOTAL : 635 MIN / 18 DAYS
