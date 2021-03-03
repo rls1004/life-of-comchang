@@ -29,7 +29,8 @@
 | 3/2 | [Full body workout 50min](https://youtu.be/c-dfaA3Bt1k) | (Cardio, Wide squat 3 pump, kneeling push-up, T-pull, slow-burpee, crunch, leg raise, bridge)\*4, 100 squat,   | 50 |
 |     | [허벅지 2주 루틴](https://youtu.be/hOSHQvFme7E) | wall squat, wall back lunge, wall back lunge cross, wall back lunge cross+, sigle leg deadlift, hands up deadlift | 5 |
 |     | [허벅지사이 제일 위쪽 살! 1주 루틴](https://youtu.be/OGcw3gnFhsU) | bridge, single leg table top, single leg bridge, bridge up femur arc single, single leg straight bridge, bridge up femur arc straight | 8 |
-
+| 3/3 | 허벅지 2주 루틴 | wall squat, wall back lunge, wall back lunge cross, wall back lunge cross+, sigle leg deadlift, hands up deadlift | 5 |
+|     | 허벅지사이 제일 위쪽 살! 1주 루틴 | bridge, single leg table top, single leg bridge, bridge up femur arc single, single leg straight bridge, bridge up femur arc straight | 8 |
 
 
 
