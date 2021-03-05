@@ -31,7 +31,8 @@
 |     | [허벅지사이 제일 위쪽 살! 1주 루틴](https://youtu.be/OGcw3gnFhsU) | bridge, single leg table top, single leg bridge, bridge up femur arc single, single leg straight bridge, bridge up femur arc straight | 8 |
 | 3/3 | 허벅지 2주 루틴 | wall squat, wall back lunge, wall back lunge cross, wall back lunge cross+, sigle leg deadlift, hands up deadlift | 5 |
 |     | 허벅지사이 제일 위쪽 살! 1주 루틴 | bridge, single leg table top, single leg bridge, bridge up femur arc single, single leg straight bridge, bridge up femur arc straight | 8 |
+| 3/4 | 술 먹고 걷기 |  |  |
+| 3/5 | 필라테스 : 리포머 | 팔뚝, 복부 | 50 |
 
 
-
-### TOTAL : 648 MIN / 18 DAYS
+### TOTAL : 698 MIN / 20 DAYS
