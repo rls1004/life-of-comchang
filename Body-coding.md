@@ -37,5 +37,8 @@
 |     | 허벅지사이 제일 위쪽 살! 1주 루틴 | bridge, single leg table top, single leg bridge, bridge up femur arc single, single leg straight bridge, bridge up femur arc straight | 8 |
 | 3/7 | 허벅지 2주 루틴 | wall squat, wall back lunge, wall back lunge cross, wall back lunge cross+, sigle leg deadlift, hands up deadlift | 5 |
 |     | 허벅지사이 제일 위쪽 살! 1주 루틴 | bridge, single leg table top, single leg bridge, bridge up femur arc single, single leg straight bridge, bridge up femur arc straight | 8 |
+| 3/9 | 허벅지 2주 루틴 | wall squat, wall back lunge, wall back lunge cross, wall back lunge cross+, sigle leg deadlift, hands up deadlift | 5 |
+|     | 허벅지사이 제일 위쪽 살! 1주 루틴 | bridge, single leg table top, single leg bridge, bridge up femur arc single, single leg straight bridge, bridge up femur arc straight | 8 |
 
-### TOTAL : 737 MIN / 23 DAYS
+
+### TOTAL : 750 MIN / 24 DAYS
